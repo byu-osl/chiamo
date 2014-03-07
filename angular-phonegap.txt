@@ -1,0 +1,14 @@
+cordova create chiamo org.chiamo "Chiamo"
+cd chiamo
+cordova platform add android
+yo angular
+(Bootstrap but no Compass/SASS)
+
+grunt build
+grunt serve
+grunt build:phonegap (after editing Gruntfile)
+cordova serve android
+cordova run android
+
+http://lucaspaulger.com/javascript/2013/09/25/Mobile-apps-Phonegap-Yeoman/
+
